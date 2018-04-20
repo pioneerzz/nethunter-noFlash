@@ -4,15 +4,14 @@
 
 
 
-![alt text](https://img.xda-cdn.com/tv6mVcvBlaYRo6JnVL0GIk7o01Q=/http%3A%2F%2Fi.imgur.com%2FuXn2AUT.png)
 
 
 
 ## ** !!! DISCLAIMER AND A WARNING !!!**
 
-## **I'm not responsible if you do any damage to your device**
-## **I'm not responsible if your device ends up in a brick state**
-## **You take full responsibility of everything in this, so please be careful!**
+ **I'm not responsible if you do any damage to your device**
+ **I'm not responsible if your device ends up in a brick state**
+ **You take full responsibility of everything in this, so please be careful!**
 
 ## **!!! DISCLAIMER AND A WARNING !!!**
 
