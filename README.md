@@ -7,13 +7,13 @@
 
 
 
-## ** !!! DISCLAIMER AND A WARNING !!!**
+## !!! DISCLAIMER AND A WARNING !!!
 
  **I'm not responsible if you do any damage to your device**
  **I'm not responsible if your device ends up in a brick state**
  **You take full responsibility of everything in this, so please be careful!**
 
-## **!!! DISCLAIMER AND A WARNING !!!**
+## !!! DISCLAIMER AND A WARNING !!!
 
 ## This is an Android Script to install Kali Nethunter on your android device. You need at least Android 4.2 (Jellybean)(SDK17)
 
